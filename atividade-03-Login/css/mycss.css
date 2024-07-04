@@ -1,0 +1,65 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#mErro{
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tituloAluno{
+    position: absolute;
+    bottom: 55%;
+    right: 50px;
+    font-family:  'Arial Narrow', Cambria;
+    font-size: 25px;
+    color: rgb(2, 133, 2); 
+}
+
+#tituloSlide1{
+    color: rgb(2, 133, 2); 
+}
+#tituloSlide2{
+    color: rgb(2, 133, 2); 
+}
+#tituloSlide3{
+    color: rgb(2, 133, 2); 
+}
+.hrInputs{
+    margin-bottom:1.5rem!important; 
+    border-color: rgb(110, 192, 110);
+}
+.hrDivisor{
+    margin-bottom:3rem!important;
+    border-color: rgb(110, 192, 110);
+}
+h2{
+    color: rgb(2, 133, 2);
+   
+}
+#tituloTurma{
+  color: rgb(50, 88, 50);
+  display: flex;
+  font-size: 35px;
+  align-items: center;
+  justify-content: center;
+}
+label{
+    color: rgb(47, 122, 47);
+}
+nav{
+    background-color: rgb(2, 66, 2);;
+}
+#tituloTurmaSelect{
+    color: rgb(50, 88, 50);
+
+}
+.textoCarousel{
+    color:rgb(196, 97, 4);
+}
+#bgLogin{
+    background-image: url("imagens/menu.jpg");
+}
