@@ -1,0 +1,77 @@
+#nav-item-Admin{
+    padding-left: 300px;
+    display: inline;
+}
+#areaBotao{
+    position: relative;
+    left: 20%;    
+    margin-top: 5%;
+    padding-bottom:15%;
+   
+}
+
+#btnAlterar{
+    text-decoration: none;
+    padding: 5px;
+    background-color: orangered;
+    color:white;
+}
+
+#btnBuscar{
+    text-decoration: none;
+    padding: 5px;
+    background-color: rgb(189, 189, 22);
+    color:white;
+}
+
+#btnCadastrar{
+    text-decoration: none;
+    padding: 5px;
+    background-color: rgb(10, 206, 53);
+    color:white;
+}
+
+#btnExcluir{
+    text-decoration: none;
+    padding: 5px;
+    background-color: rgb(187, 4, 4);
+    color:white;
+}
+
+
+#acoesAdmin{
+    margin-top:5%;
+    position: relative;
+    left: 45%; 
+    color:#ff006aad;    
+    font-weight: bold;
+}
+#areaForm{
+    position: relative;
+    left: 37%; 
+    margin-top: 5%;
+}
+
+#cadastroProduto{
+    margin-top:5%;
+    position: relative;
+    left: 38%; 
+    color:#ff006aad;
+    font-weight: bold;
+
+}
+
+label{
+    color: #0a0a0a;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.inputCadastro{
+    margin-left: 10%;
+}
+
+.areaInputCadastro{
+    
+}
